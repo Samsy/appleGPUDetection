@@ -87,7 +87,6 @@ export default class WebGLTestShader {
 
 		    uniform sampler2D map;
 		   
-		    uniform vec3 uColor;
 		    varying vec2 vUv;
 		    varying float vvv;
 
